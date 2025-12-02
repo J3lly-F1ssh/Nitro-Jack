@@ -7,7 +7,8 @@
 - 👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾👾
 - Current Projects:
   * Linux Automation Scripts for cyber competitions
-  * Configuring network for MACCDC Practice 
+  * Configuring network for MACCDC Practice
+  * Libre Picks N' Tools
  
 
 <!---
