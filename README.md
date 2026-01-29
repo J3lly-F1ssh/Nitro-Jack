@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nitro-Jack
+- 👋 Hi, I’m @J3lly F1ssh
 - 👀 I’m interested in retro emulation, gaming, along with learning secure coding. 
 - 📫 How to reach me (Currently Working Alone)
 - Favorite Languages Include:
